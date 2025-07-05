@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# __pycache__
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+logs/
+
+# Downloads
+Downloads/
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Configs
+config.json
